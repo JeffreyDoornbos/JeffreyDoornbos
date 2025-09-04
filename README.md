@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
   <b>Python</b>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>  
   <b>FastAPI</b>
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>  
@@ -50,6 +50,20 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>  
   <b>Bootstrap</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>  
+  <b>Node.js</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg" alt="Expo" width="40" height="40"/>  
+  <b>Expo</b>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
+  <b>Linux</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Server" width="40" height="40"/>  
+  <b>Windows Server 2022</b>
 </p>
 
 ---
