@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hi there, I'm <span style="color:#e63946">Jeffrey Doornbos</span> 👋</h1>
-<h3 align="center">⚡ Full-stack developer · Part-time BMW M2 racing driver ⚡</h3>
+<h3 align="center">⚡ Full-stack developer ⚡</h3>
 
 ---
 
