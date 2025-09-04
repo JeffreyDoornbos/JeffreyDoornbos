@@ -3,14 +3,14 @@
 -->
 
 <h1 align="center">Hi there, I'm <span style="color:#e63946">Jeffrey Doornbos</span> 👋</h1>
-<h3 align="center">⚡ Full-stack developer building sleek & functional apps ⚡</h3>
+<h3 align="center">⚡ Full-stack developer · Part-time BMW M2 racing driver ⚡</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 💻 Full-stack developer (PHP, C#, JavaScript/React, Bootstrap).  
-- 🚀 Creator of projects like **Verzamelaar_Beroeps**, **Webshop1**, and **React_Portfolio**.  
-- 🎯 Passionate about clean UI, secure flows & meaningful UX.  
+- 💻 Skilled in PHP, C#, JavaScript/React, and Bootstrap.  
+- 🎨 Passionate about clean UI, secure flows & smooth UX.  
+- 🏎️ Professional part-time **BMW M2 racing driver**.  
 
 ---
 
@@ -32,5 +32,5 @@
 </p>
 
 <p align="center">
-  <em style="color:#f4a261">Thanks for stopping by — happy coding!</em> ✨
+  <em style="color:#f4a261">Thanks for stopping by — happy coding & fast driving!</em> ✨
 </p>
