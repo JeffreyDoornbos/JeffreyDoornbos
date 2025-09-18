@@ -8,7 +8,6 @@
 ---
 
 ### 👨‍💻 About Me
-- 💻 Skilled in PHP, C#, JavaScript/React, and Bootstrap.  
 - 🎨 Passionate about clean UI, secure flows & smooth UX.  
 - 🏎️ Professional part-time **BMW M2 CS racing driver**.  
 
