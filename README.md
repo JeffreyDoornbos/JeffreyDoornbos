@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi there, I'm <span style="color:#e63946">Jeffrey Doornbos</span> 👋</h1>
 <h3 align="center">⚡ Full-stack developer ⚡</h3>
+<h3 align="center">⚡ Founder of CloudSolutions4You ⚡</h3>
 
 ---
 
