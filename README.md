@@ -64,7 +64,7 @@
   <b>Linux</b>
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Server" width="40" height="40"/>  
-  <b>Windows Server 2022</b>
+  <b>Windows Server</b>
 </p>
 
 ---
