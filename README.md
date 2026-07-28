@@ -11,7 +11,6 @@
 ### 👨‍💻 About Me
 - 💼 Owner of CloudSolutions4You
 - 🎨 Passionate about clean UI, secure flows & smooth UX.  
-- 🏎️ Professional part-time **BMW M2 CS racing driver**.  
 
 ---
 
