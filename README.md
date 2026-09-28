@@ -55,22 +55,7 @@
   <b>Windows Server</b>
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JeffreyDoornbos&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=JeffreyDoornbos&show_icons=true&theme=default&hide_title=true&hide_border=true" alt="Jeffrey's GitHub stats" height="165" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyDoornbos&layout=compact&theme=tokyonight&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyDoornbos&layout=compact&theme=default&hide_border=true" alt="Jeffrey's most used languages" height="165" />
-  </picture>
-</p>
-
----
 
 <p align="center">
   🌐 <a href="https://cloudsolutions4you.com">Website</a> •
@@ -78,5 +63,5 @@
 </p>
 
 <p align="center">
-  <em>Thanks for stopping by — happy coding & fast driving!</em> ✨
+  <em>Thanks for stopping by happy coding!</em> ✨
 </p>
