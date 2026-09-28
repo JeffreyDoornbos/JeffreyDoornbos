@@ -62,6 +62,8 @@
   📧 <a href="mailto:info@cloudsolutions4you.com">Email</a>
 </p>
 
+---
+
 <p align="center">
   <em>Thanks for stopping by happy coding!</em> ✨
 </p>
